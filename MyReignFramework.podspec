@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MyReignFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.2"
   spec.summary      = "A private MyReignFramework."
   spec.description  = <<-DESC
 This is my description asdasdasd asides dasdasd Asda sd Asda as dad sd
@@ -47,6 +47,8 @@ This is my description asdasdasd asides dasdasd Asda sd Asda as dad sd
   # spec.requires_arc = true
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # spec.dependency "JSONKit", "~> 1.4"
+  spec.dependency "Swinject"
+  spec.dependency "SVProgressHUD"
+  spec.dependency "Alamofire", "~> 5.2"
 
 end

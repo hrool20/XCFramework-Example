@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lY6bhiL4RggR0uvH25Lu5tFYPZQ=
+		CDOPBf7iqtJBNbZXUyzynumb0uQ=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZAp9yxgW7ak6t4lNHPioYewgWHI=
+		idCw8sNULT/C+VlDrV/y4K5davQ=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		lY6bhiL4RggR0uvH25Lu5tFYPZQ=
+		CDOPBf7iqtJBNbZXUyzynumb0uQ=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ZAp9yxgW7ak6t4lNHPioYewgWHI=
+		idCw8sNULT/C+VlDrV/y4K5davQ=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CWi1YrDnBCe/OYfHuDjMffxVPZ4=
+		QDNOv0xJjZs59LhOH6+RRAcVTPs=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P9EFZ2SCyq9nYmOOOwbBlkrpI/4=
+		KnjNXw0BoF2k+IFddegovpr6bhw=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		CWi1YrDnBCe/OYfHuDjMffxVPZ4=
+		QDNOv0xJjZs59LhOH6+RRAcVTPs=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		P9EFZ2SCyq9nYmOOOwbBlkrpI/4=
+		KnjNXw0BoF2k+IFddegovpr6bhw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWpjvM/8Y1tS/rQVoBjNxd/CcxwuL92IcDOXR9XWkDk=
+			nQVdWhYuSO+sDq0SeRMGu4N9pCfKOypCF4XD7RRK5Do=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zOQzth3ACiyT8Hfh2Qtb2cIa5L57i8IEENxHP7hYyrU=
+			W2xzGe6ppYR9rFjPOm43uv74JWOWsXIUwDFycJ94IIc=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWpjvM/8Y1tS/rQVoBjNxd/CcxwuL92IcDOXR9XWkDk=
+			nQVdWhYuSO+sDq0SeRMGu4N9pCfKOypCF4XD7RRK5Do=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zOQzth3ACiyT8Hfh2Qtb2cIa5L57i8IEENxHP7hYyrU=
+			W2xzGe6ppYR9rFjPOm43uv74JWOWsXIUwDFycJ94IIc=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +138,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qx6ZHaWkXMAtgb+m6mpne/QiFmr0xFc+x61RN1C4tPE=
+			6WnOZcYYGYL4TONRciBosNf3S5LugD5XombAkXQNbZI=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gPYcyBcEMIw7/k3Wqx5S/kz7mvp81UmZca4n3bYU4cA=
+			dmbx7Rr0UwI3WLs5q6ZnclhLJZiVuiF23aPLRVDnb4o=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qx6ZHaWkXMAtgb+m6mpne/QiFmr0xFc+x61RN1C4tPE=
+			6WnOZcYYGYL4TONRciBosNf3S5LugD5XombAkXQNbZI=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gPYcyBcEMIw7/k3Wqx5S/kz7mvp81UmZca4n3bYU4cA=
+			dmbx7Rr0UwI3WLs5q6ZnclhLJZiVuiF23aPLRVDnb4o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
