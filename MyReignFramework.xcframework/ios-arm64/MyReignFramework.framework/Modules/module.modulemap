@@ -1,0 +1,11 @@
+framework module MyReignFramework {
+  umbrella header "MyReignFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module MyReignFramework.Swift {
+    header "MyReignFramework-Swift.h"
+    requires objc
+}
