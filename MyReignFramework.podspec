@@ -19,10 +19,10 @@ This is my description asdasdasd asides dasdasd Asda sd Asda as dad sd
   spec.license      = { :type => "MIT", :file => "license" }
   spec.author             = { "Reign" => "reign@reign.cl" }
   spec.platform     = :ios
-  spec.ios.deployment_target = "5.0"
-  spec.source       = { :git => "https://github.com/hrool20/example-del.git", :tag => "#{spec.version}" }
+  spec.ios.deployment_target = "12.0"
+  spec.source       = { :git => "https://github.com/hrool20/XCFramework-Example.git" }
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
   # spec.public_header_files = "Classes/**/*.h"
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -36,7 +36,7 @@ This is my description asdasdasd asides dasdasd Asda sd Asda as dad sd
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
-  spec.ios.vendored_frameworks = "MyReignFramework"
+  spec.vendored_frameworks = "MyReignFramework.xcframework"
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
