@@ -4,6 +4,90 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/Alamofire.framework/Alamofire</key>
+		<data>
+		b/+gX2U5eCeV1jK0V3kI/OAT5hs=
+		</data>
+		<key>Frameworks/Alamofire.framework/Info.plist</key>
+		<data>
+		grzG0N3Wk8A8DJ2mpjpi2im6ijA=
+		</data>
+		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
+		<data>
+		IYCmu8rFDmQB5rDhME1CvkTlhUc=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/Info.plist</key>
+		<data>
+		P6ZhlYSVE9Rhi63r/pMMdKSQcKs=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD</key>
+		<data>
+		V5Y9hPCQGUfQf+TRpzQAgEDKazA=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png</key>
+		<data>
+		oqIJzVxhZua/CZX+TGK3kylFilY=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png</key>
+		<data>
+		3aAb8SeX29Ro7z1pt6A1yqUAaHs=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png</key>
+		<data>
+		pPD0GLNI2PnWq2CX6UyQ9H52T9g=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png</key>
+		<data>
+		oP6f/Zad0pEL8xrimTdNlSXrrpA=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png</key>
+		<data>
+		cFCuvbmEkaKmhj2RThSqw/5KUtM=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png</key>
+		<data>
+		QSlxhLYpqk8M4tlq+X0hXbamUH0=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png</key>
+		<data>
+		CP1bXzRkp6v+a6oAHECMgzhmOIU=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png</key>
+		<data>
+		yx+ZQImmZJ+j/av7X/uJpzaqomU=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png</key>
+		<data>
+		5MgHR68ek5Ayg9vc2oGqk1wMpdQ=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png</key>
+		<data>
+		oQ/IlYYGw5vH/rx4pqvYiNddu8c=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png</key>
+		<data>
+		P1jXd1XGKWq/KG50KF6pWjBVwBo=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png</key>
+		<data>
+		hmliT+WZg212OTNmAhP+uSOyYio=
+		</data>
+		<key>Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources</key>
+		<data>
+		y+uqTCyKzv/K2Rev9IA8qdNyVyA=
+		</data>
+		<key>Frameworks/Swinject.framework/Info.plist</key>
+		<data>
+		AFo4GR9VveNVaSdSf9G8jqliHoo=
+		</data>
+		<key>Frameworks/Swinject.framework/Swinject</key>
+		<data>
+		7T0a2OkcWSW5Fw+t91pugI0J5RE=
+		</data>
+		<key>Frameworks/Swinject.framework/_CodeSignature/CodeResources</key>
+		<data>
+		9ePoGtd4+75HaoB1nwDeA0lks1o=
+		</data>
 		<key>Headers/MyReignFramework-Swift.h</key>
 		<data>
 		QL+Aab3CoG9Q40/1/J/obAq65b8=
@@ -22,11 +106,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lY6bhiL4RggR0uvH25Lu5tFYPZQ=
+		CDOPBf7iqtJBNbZXUyzynumb0uQ=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZAp9yxgW7ak6t4lNHPioYewgWHI=
+		NCcYWwkKyandpOuX36/Qf+6MQUc=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +118,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		lY6bhiL4RggR0uvH25Lu5tFYPZQ=
+		CDOPBf7iqtJBNbZXUyzynumb0uQ=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ZAp9yxgW7ak6t4lNHPioYewgWHI=
+		NCcYWwkKyandpOuX36/Qf+6MQUc=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +130,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CWi1YrDnBCe/OYfHuDjMffxVPZ4=
+		QDNOv0xJjZs59LhOH6+RRAcVTPs=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P9EFZ2SCyq9nYmOOOwbBlkrpI/4=
+		xPKwZlhN/WmdwqGD/ASC5TWqnKI=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +142,11 @@
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		CWi1YrDnBCe/OYfHuDjMffxVPZ4=
+		QDNOv0xJjZs59LhOH6+RRAcVTPs=
 		</data>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		P9EFZ2SCyq9nYmOOOwbBlkrpI/4=
+		xPKwZlhN/WmdwqGD/ASC5TWqnKI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,6 +155,153 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Alamofire.framework/Alamofire</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YyPEAFpz2gKZKm4tBlp4Mx+xmwKFQH7mhZSwv+h32Gw=
+			</data>
+		</dict>
+		<key>Frameworks/Alamofire.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GCeKtW2nLJoTVjF65zOLrUkAmUbAC1GuutB9YnOzork=
+			</data>
+		</dict>
+		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Jpl6J578hhwrwNHs4RzyVhV4afryiY5D7MnjmaNYnk=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H7IHUBypRk9mE4NBrMrfdordgF+POAKlF4LJRzMd01c=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x3bbupiZ9EvOf1d1LnenPC9YTSJiKPF6ztiGct6+dS0=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DDw2jnXp1WjofT+IkD6qy3+dLIzDE9vrxNSPoeQO4jo=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6QAJXoYU7vQpTdzUcb2HrKhSj6gCcrZb9r6z0J5yK+w=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iwwAX8HeeU70vQudb1L6z80VbnuVeJ+zn94jLMovmKs=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UDk/X+yyN+USnDW9JFp7P9O5irCLZkeybVB1BEDVunA=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xc9fgzh3g2FX8j9dYqux/gm+73IDul7Vb0KaMAQZo+E=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P6wK1oxOL6vyD7o9q9+hP9jctZaTyluZgm1zpKgw0dM=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GeypxgyrUdKQ8Nyqc9w0q9XLCdtRbk4cJi9EE5QXXs8=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KLsrQZrjUwrsUtZSul1bJbNH8OTb5+YrjaVW+rbl64Q=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eer51e9B3uVrPmnlKfYiqok7LLlR6cnUt8JBmo2oG3Y=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZneDtnotiia14nbyRklrCVgGmnlPcjpSwUjyHSfPeXc=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hbpOiBtrYWqPZJYnEBIf/dZWn+6rFwHRPp0WzU9gA18=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EMic5PZw5ab7sBUjL5t1YMrH5WnRAJCbgeMLFJgZQ/Q=
+			</data>
+		</dict>
+		<key>Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MbgaJtkv8zSC8fl9/90IV+DMvOkEn21YOFc3vPZ6/Pc=
+			</data>
+		</dict>
+		<key>Frameworks/Swinject.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G+9T34iCyJsdkT8+exQ+TANSIAY18brsUJFWC4AAx+w=
+			</data>
+		</dict>
+		<key>Frameworks/Swinject.framework/Swinject</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UIkoX3izGQujoVS2Irxml0ACkWNN9LKhV/Xm3ik3xfQ=
+			</data>
+		</dict>
+		<key>Frameworks/Swinject.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lfYyrO/AOrSf55tm27mo65MbakJStxQwkgtQH42+P/w=
+			</data>
+		</dict>
 		<key>Headers/MyReignFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -96,14 +327,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWpjvM/8Y1tS/rQVoBjNxd/CcxwuL92IcDOXR9XWkDk=
+			nQVdWhYuSO+sDq0SeRMGu4N9pCfKOypCF4XD7RRK5Do=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zOQzth3ACiyT8Hfh2Qtb2cIa5L57i8IEENxHP7hYyrU=
+			I93HM0EWC6sO5v7l+bn6O08/mfG8m83bIrlP3Gcuhow=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +348,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWpjvM/8Y1tS/rQVoBjNxd/CcxwuL92IcDOXR9XWkDk=
+			nQVdWhYuSO+sDq0SeRMGu4N9pCfKOypCF4XD7RRK5Do=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zOQzth3ACiyT8Hfh2Qtb2cIa5L57i8IEENxHP7hYyrU=
+			I93HM0EWC6sO5v7l+bn6O08/mfG8m83bIrlP3Gcuhow=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +369,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qx6ZHaWkXMAtgb+m6mpne/QiFmr0xFc+x61RN1C4tPE=
+			6WnOZcYYGYL4TONRciBosNf3S5LugD5XombAkXQNbZI=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gPYcyBcEMIw7/k3Wqx5S/kz7mvp81UmZca4n3bYU4cA=
+			6ML8d0L/sDDI9cYBJ5gk3eTHfGt1HHsLd3O50N0Mp4U=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +390,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qx6ZHaWkXMAtgb+m6mpne/QiFmr0xFc+x61RN1C4tPE=
+			6WnOZcYYGYL4TONRciBosNf3S5LugD5XombAkXQNbZI=
 			</data>
 		</dict>
 		<key>Modules/MyReignFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gPYcyBcEMIw7/k3Wqx5S/kz7mvp81UmZca4n3bYU4cA=
+			6ML8d0L/sDDI9cYBJ5gk3eTHfGt1HHsLd3O50N0Mp4U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

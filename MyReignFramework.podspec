@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MyReignFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.9"
   spec.summary      = "A private MyReignFramework."
   spec.description  = <<-DESC
 This is my description asdasdasd asides dasdasd Asda sd Asda as dad sd
